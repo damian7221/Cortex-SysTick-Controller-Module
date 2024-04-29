@@ -36,5 +36,4 @@ The Cortex-SysTick-Controller-Module project is a Java-based graphical user inte
 
 #### Author:
 
-- **Author**: Damian Łojko
-- The application was created as part of Java programming classes at the university.
+The project was created by Damian Łojko as part of Java programming classes at the university.
